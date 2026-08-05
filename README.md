@@ -12,27 +12,8 @@ I am actively developing my skills to excel as a Front-End and Full-Stack Engine
 
 ## Tech I've worked with:
 
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
-## Frameworks & Libraries:
-
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-
-## Backend & Cloud:
-
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,supabase,vercel,git)](https://skillicons.dev)
 
 ## Projects:
-* **BestBuy Clone:** A desktop-web replica built using HTML, CSS, JSP, Java, and MS Access.
-* **Full-Stack Mobile App (In Progress):** A cross-platform Flutter application powered by Node.js, Express, and MongoDB Atlas.
+* **BestBuy Clone as college project:** A desktop-web replica built using HTML, CSS, JSP, Java, and MS Access.
+* **Full-Stack Mobile App as college project:** A cross-platform Flutter application powered by Node.js, Express, and MongoDB Atlas.
