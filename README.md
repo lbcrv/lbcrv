@@ -1,7 +1,7 @@
 ```javascript
 const developer = {
   name: "Luis",
-  role: "Software Engineering Student @ CEUTEC",
+  role: "Software Engineering Student",
   specialties: ["Front-End", "Full-Stack"],
   currentStack: ["Next.js", "Tailwind CSS", "Supabase", "Vercel"],
   status: "Learning how to build modern web architectures and cross-platform apps"
