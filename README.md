@@ -4,6 +4,12 @@ Software engineering student in Honduras. I build web apps and finish them. Most
 
 ## Projects
 
+### [La Barra](https://github.com/lbcrv/la-barra) · [play it](https://la-barra-seven.vercel.app)
+
+Cartoon 3D table football set in a Honduran corner shop: against a bot, two players on one keyboard, or online with a four-letter room code. Real-scale Rapier physics under toon shading, power-ups, a radio narrator, and every model, texture and sound generated in code. Online play is peer to peer, with the host's browser simulating and a TURN relay for strict networks.
+
+React Three Fiber, Rapier, PeerJS, TypeScript.
+
 ### [Interrogatorio](https://github.com/lbcrv/interrogatorio) · [play it](https://interrogatorio-five.vercel.app)
 
 A detective game in Spanish and English. A language model plays the three suspects; deterministic code runs everything else: the case, the 24-question budget, which evidence breaks whose story, and the verdict. The server replays the turn log, so a forged save is rejected, and a guard screens every reply so the culprit never confesses. Runs on a free API tier.
